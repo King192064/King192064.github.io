@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#first-paragraph {
+    color: chartreuse;
+}
+
+#second-paragraph {
+    background-color: red;
+    color: blue;
+}
+
+#span-1 {
+    color: green;
+}
+
+#span-2 {
+    background-color: aquamarine;
+}
+
+#span-3 {
+    color: blue;
+}

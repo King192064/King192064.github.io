@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#para-1 {
+    color: red;
+    background-color: lightyellow;
+}
+
+#para-2 {
+    color: blue;
+    background-color: lightgray;
+}
+
+#para-3 {
+    color: green;
+    background-color: lightpink;
+}
+
+#para-4 {
+    color: aqua;
+    background-color: lightsalmon;
+}
+
+#span-1 {
+    color: purple;
+    background-color: lightblue;
+}
+
+#span-2 {
+    color: orange;
+    background-color: lightgreen;
+}
+
+#span-3 {
+    color: brown;
+    background-color: lightcoral;
+}
+
+#span-4 {
+    color: blueviolet;
+    background-color: darkgreen;
+}
