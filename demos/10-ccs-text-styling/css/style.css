@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#span-1 {
+    font-weight: bold;
+    text-decoration: line-through;
+}
+
+#span-2 {
+    font-style: italic;
+}
+
+#para-1 {
+    font-size: 24px;
+    text-align: center;
+}
+
+#hyperlink {
+    text-decoration: none;
+    color: aquamarine;
+}
+
+#image-2 {
+    text-align: center;
+}
+
+#container {
+    text-align: center;
+}
