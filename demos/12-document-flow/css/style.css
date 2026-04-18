@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+p {
+    background-color: aqua;
+}
+
+span {
+    background-color: blueviolet;
+    display: block;
+}
+
+div {
+    background-color: darkcyan;
+    display: inline;
+}
+
+.narrow {
+    background-color: darkgreen;
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+}
