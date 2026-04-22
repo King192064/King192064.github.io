@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#frame1 {
+    width: 300px;
+    border: 8px solid black;
+    background-color: #f8f4e8;
+    padding: 20px;
+    margin: 20px;
+}
+
+#frame2 {
+    width: 300px;
+    border: 8px solid black;
+    background-color: #f8f4e8;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 50%;
+}
+
+#textFrame {
+    display: inline-block;
+    width: 300px;
+    border: 8px solid black;
+    background-color: #f8f4e8;
+    padding: 20px;
+    margin: 20px;
+}
