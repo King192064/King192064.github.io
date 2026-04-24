@@ -21,6 +21,11 @@ p a {
     color: teal;
 }
 
-.warning {
+p.warning {
     background-color: crimson;
 }
+
+p.warning a {
+    color: orange;
+}
+
