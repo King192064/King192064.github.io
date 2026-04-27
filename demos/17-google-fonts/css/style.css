@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.Column {
+    background-color: rgb(110, 167, 228);
+    max-width: 400px;
+    margin: 0px auto;
+    border: 8px solid rgb(93, 189, 120);
+    padding: 20px;
+}
+
+#header {
+    color: rgb(90, 127, 100);
+}
+#header2 {
+    color: rgb(90, 127, 100);
+}
