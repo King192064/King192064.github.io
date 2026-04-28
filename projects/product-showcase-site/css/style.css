@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.single-column {
+    max-width: 400px;
+    margin: 24px auto;
+}
+
+.light-con {
+    background-color: rgb(163, 215, 232);
+    padding: 48px 0px;
+}
+
+.dark-con {
+    background-color: rgb(12, 222, 187);
+    padding: 48px 0px;
+    color: white;
+}
+
+img {
+    width: 100%;
+    margin: 0px 0;
+}
+
+h2 {
+    font-family: "Fascinate Inline", system-ui;
+    margin: auto;
+}
+
+.simple {
+    border: 2px solid black;
+    padding: 8px;
+    background-color: lightgray;
+    border-radius: 8px;
+    margin: 24px auto;
+}
+
+p {
+    font-size: 20px;
+}
+
+.light-con2 {
+    background-color: rgb(88, 242, 203);
+    padding: 48px 0px;
+}
