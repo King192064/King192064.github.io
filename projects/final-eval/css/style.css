@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgb(161, 27, 27);
+    padding: 40px;
+    text-align: center;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.Join-us {
+    font-size: 26px;
+    font-weight: 600;
+    margin: 30px 0 10px;
+}
+
+.body-text {
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+
+.matchup {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 0;
+}
+
+.team {
+    width: 45%;
+}
+
+.team img {
+    width: 100%;
+    max-width: 250px;
+}
+
+.team-name {
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.vs {
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.buttons {
+    margin-top: 30px;
+}
+
+.btn-yes {
+    background-color: black;
+    color: white;
+    display: inline-block;
+    padding: 12px 25px;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.btn-no {
+    background-color: white;
+    color: black;
+    display: inline-block;
+    padding: 12px 25px;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.Call {
+    margin-top: 30px;
+    font-size: 14px;
+}
